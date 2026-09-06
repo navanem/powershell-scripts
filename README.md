@@ -1,4 +1,4 @@
-# powershell_scripts
+# PowerShell Scripts
 
 ## Swiss‑Quality PowerShell Scripts
 
@@ -32,8 +32,8 @@ Check each script’s header and inline help for details and usage examples.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-account>/powershell_scripts.git
-   cd powershell_scripts
+   git clone https://github.com/<your-account>/powershell-scripts.git
+   cd powershell-scripts
    ```
 
 2. Unblock the scripts if needed:
